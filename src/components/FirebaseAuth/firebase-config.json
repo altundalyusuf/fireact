@@ -1,0 +1,8 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyBIYPlAb7IWwTWuEJfLSmU_4-7RQ90Ky8k",
+  authDomain: "fireact-de8c4.firebaseapp.com",
+  projectId: "fireact-de8c4",
+  storageBucket: "fireact-de8c4.appspot.com",
+  messagingSenderId: "287471391619",
+  appId: "1:287471391619:web:c4137239af188591b59cb6"
+};
